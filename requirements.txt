@@ -1,0 +1,7 @@
+pandas
+numpy
+tweepy
+python-dotenv
+selenium
+bs4
+ipykernel
